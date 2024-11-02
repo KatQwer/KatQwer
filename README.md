@@ -2,6 +2,6 @@
 - 👀 I’m interested in webdesign, artificial intelligence
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything web-related
-- 📫 How to reach me Discord => _qw3rt_
+- 📫 How to reach me Discord => `_qw3rt_`
 - 😄 Pronouns: any pronouns
-- ⚡ Fun fact: I use Debian
+- ⚡ Fun fact: I stopped using Debian when I accidentally bricked my old laptop :D
