@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KatQwer
-- 👀 I’m interested in webdesign, artificial intelligence
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on anything web-related
+- 👀 I’m interested in anything coding related
+- 🌱 I’m currently learning Java, Docker, Cisco Packet Tracer, IOT, Full-Stack Design & Security
+- 💞️ I’m looking to collaborate on any coding project.
 - 📫 How to reach me Discord => katqwer
 - 😄 Pronouns: any pronouns
 - ⚡ Fun fact: I stopped using Debian when I accidentally bricked my old laptop :D
